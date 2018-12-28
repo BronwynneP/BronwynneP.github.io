@@ -1,0 +1,36 @@
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Thasadith', sans-serif;
+}
+
+p, li {
+	font-family: 'Roboto', sans-serif;
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #a09a9a
+}
+body {
+  width: 400px;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #a09a9a;
+
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
